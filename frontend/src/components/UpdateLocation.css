@@ -1,0 +1,33 @@
+/* UpdateLocation.css */
+
+.update-location-container {
+    margin: 20px;
+}
+
+.update-location-container form {
+    max-width: 400px;
+}
+
+.update-location-container label {
+    margin-bottom: 5px;
+    display: block;
+}
+
+.update-location-container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.update-location-container button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.update-location-container button:hover {
+    background-color: darkblue;
+}
